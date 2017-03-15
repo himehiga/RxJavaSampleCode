@@ -1,7 +1,9 @@
-package com.example.nkenji.rxjavasamplecode;
+package com.example.nkenji.rxjavasamplecode.view.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.example.nkenji.rxjavasamplecode.R;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
